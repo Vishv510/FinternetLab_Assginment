@@ -1,31 +1,49 @@
- **1] First Install Dependencies**
- `npm run install`
+ ```bash
+cd FinternetLab_Assginment
+ ```
 
+<br>
+ **1] First Install Dependencies**
+ ```bash
+ npm run install
+```
 **2] Start the Development Server**
-`npm run dev`
+```bash
+npm run dev
+```
+
 
 or
+<br>
 **2]-1 Build for Production**
-`npm run build`
+```bash
+npm run build
+```
 
+<br>
 **2]-2 To preview the production build locally:**
-`npm run preview`
+```bash
+npm run preview
+```
 
 ---
 
-![alt text](./public/image.png)
-credential example:
-full name: Vishv Moradita
+![alt text](./public/image.png)<br>
+credential example:<br>
+full name: Vishv Moradita<br>
 Choose Adress : vishmor
 
 ---
 
-in dashboard , user we verify document 
-but now for verification but press button in dashboard 
+for now
+In the dashboard, the user can verify their documents by pressing the verification button.
 
-![alt text](./public/dashboard.png)
 
-after:![alt text](./public/after.png)
+![alt text](./public/image1.png)
+
+after:<br>
+
+![alt text](./public/after.png)
 
 ---
 
