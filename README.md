@@ -3,6 +3,7 @@ cd FinternetLab_Assginment
  ```
 
 <br>
+
  **1] First Install Dependencies**
  ```bash
  npm run install
@@ -15,6 +16,7 @@ npm run dev
 
 or
 <br>
+
 **2]-1 Build for Production**
 ```bash
 npm run build
@@ -28,7 +30,7 @@ npm run preview
 
 ---
 
-![alt text](./public/image.png)<br>
+![alt text](./public/image1.png)<br>
 credential example:<br>
 full name: Vishv Moradita<br>
 Choose Adress : vishmor
@@ -39,7 +41,7 @@ for now
 In the dashboard, the user can verify their documents by pressing the verification button.
 
 
-![alt text](./public/image1.png)
+![alt text](./public/image.png)
 
 after:<br>
 
@@ -47,8 +49,6 @@ after:<br>
 
 ---
 
-in cross border trasition
-
-credential data will be like:
+In the cross-border transaction flow, the credential data is represented as follows:
 Example: gloary@finternet
  
